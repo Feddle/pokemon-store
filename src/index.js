@@ -5,22 +5,22 @@ import App from "./components/App";
 import * as serviceWorker from "./serviceWorker";
 
 const pokemons = [
-  { id: 25, name: "Pikachu", type: [5], img: "/img/pikachu-2.svg" },
-  { id: 63, name: "Abra", type: [11], img: "/img/abra.svg" },
-  { id: 69, name: "Bellsprout", type: [4, 8], img: "/img/bellsprout.svg" },
-  { id: 1, name: "Bulbasaur", type: [4, 8], img: "/img/bulbasaur.svg" },
-  { id: 4, name: "Charmander", type: [2], img: "/img/charmander.svg" },
-  { id: 133, name: "Eevee", type: [1], img: "/img/eevee.svg" },
-  { id: 7, name: "Squirtle", type: [3], img: "/img/squirtle.svg" },
-  { id: 39, name: "Jigglypuff", type: [18, 1], img: "/img/jigglypuff.svg" },
-  { id: 52, name: "Meowth", type: [1], img: "/img/meowth.svg" },
-  { id: 54, name: "Psyduck", type: [3], img: "/img/psyduck.svg" },
-  { id: 143, name: "Snorlax", type: [1], img: "/img/snorlax.svg" },
-  { id: 48, name: "Venonat", type: [12, 8], img: "/img/venonat.svg" },
-  { id: 16, name: "Pidgey", type: [10, 1], img: "/img/pidgey.svg" },
-  { id: 19, name: "Rattata", type: [1], img: "/img/rattata.svg" },
-  { id: 56, name: "Mankey", type: [7], img: "/img/mankey.svg" },
-  { id: 147, name: "Dratini", type: [16], img: "/img/dratini.svg" }
+  { id: 25, name: "Pikachu", type: [5], img: "img/pikachu-2.svg" },
+  { id: 63, name: "Abra", type: [11], img: "img/abra.svg" },
+  { id: 69, name: "Bellsprout", type: [4, 8], img: "img/bellsprout.svg" },
+  { id: 1, name: "Bulbasaur", type: [4, 8], img: "img/bulbasaur.svg" },
+  { id: 4, name: "Charmander", type: [2], img: "img/charmander.svg" },
+  { id: 133, name: "Eevee", type: [1], img: "img/eevee.svg" },
+  { id: 7, name: "Squirtle", type: [3], img: "img/squirtle.svg" },
+  { id: 39, name: "Jigglypuff", type: [18, 1], img: "img/jigglypuff.svg" },
+  { id: 52, name: "Meowth", type: [1], img: "img/meowth.svg" },
+  { id: 54, name: "Psyduck", type: [3], img: "img/psyduck.svg" },
+  { id: 143, name: "Snorlax", type: [1], img: "img/snorlax.svg" },
+  { id: 48, name: "Venonat", type: [12, 8], img: "img/venonat.svg" },
+  { id: 16, name: "Pidgey", type: [10, 1], img: "img/pidgey.svg" },
+  { id: 19, name: "Rattata", type: [1], img: "img/rattata.svg" },
+  { id: 56, name: "Mankey", type: [7], img: "img/mankey.svg" },
+  { id: 147, name: "Dratini", type: [16], img: "img/dratini.svg" }
 ];
 
 const types = [
