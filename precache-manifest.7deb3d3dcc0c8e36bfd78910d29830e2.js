@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/pokemon-store/static/css/main.e0f55d4c.chunk.css"
   },
   {
-    "revision": "b1b28d8dbc34789afcd70642a7bbc031",
+    "revision": "5d65fbc0d46be37715f5a834c73e9ddb",
     "url": "/pokemon-store/index.html"
   }
 ];
